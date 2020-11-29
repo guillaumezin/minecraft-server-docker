@@ -1,7 +1,7 @@
 # nukkit-docker
-Files to create a docker for Nukkit Minecraft server
+Files to create a docker for Nukkit Minecraft server.
 
-For instance for [Nukkit](https://github.com/CloudburstMC/Nukkit) or [PowerNukkit](https://github.com/PowerNukkit/PowerNukkit)
+For instance for [Nukkit](https://github.com/CloudburstMC/Nukkit) or [PowerNukkit](https://github.com/PowerNukkit/PowerNukkit).
 
 I use it for a personnal Minecraft server, but it could work for many Java web app.
 
@@ -9,7 +9,7 @@ Put the application .jar file in app subfolder and link it to nukkit.jar, for in
 
 ```ln -s powernukkit-1.4.0.0-PN-ALPHA.1-shaded.jar nukkit.jar```
 
-Data will be writable in data subfolder
+Data will be writable in data subfolder.
 
 To build:
 
@@ -19,7 +19,7 @@ To execute:
 
 ```docker-compose up -d```
 
-To stop
+To stop:
 
 ```docker-compose down```
 
