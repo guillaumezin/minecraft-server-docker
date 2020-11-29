@@ -11,8 +11,6 @@ Put the application .jar file in app subfolder and link it to nukkit.jar, for in
 
 Data will be writable in data subfolder
 
-nukkit application must be in app/.jar in app su
-
 To build:
 
 ```docker build nukkit .```
