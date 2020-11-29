@@ -27,4 +27,4 @@ To control server:
 
 ```docker attach nukkit-docker_nukkit_1```
 
-Then CTRL+P CTRL+Q to detach
+Then CTRL+P CTRL+Q to detach.
