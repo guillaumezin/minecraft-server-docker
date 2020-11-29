@@ -3,7 +3,7 @@ Files to create a docker for Nukkit Minecraft server.
 
 For instance for [Nukkit](https://github.com/CloudburstMC/Nukkit) or [PowerNukkit](https://github.com/PowerNukkit/PowerNukkit).
 
-I use it for a personnal Minecraft server, but it could work for many Java web app.
+I use it for a personnal Minecraft server on Raspberry PI 3 with 32bits Raspbian OS, but it could work for many Java web app, edit the Dockerfile if you have a 64bits OS or another architecture.
 
 Put the application .jar file in app subfolder and link it to nukkit.jar, for instance:
 
