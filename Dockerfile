@@ -32,4 +32,4 @@ WORKDIR /data
 
 # Run app
 ENTRYPOINT ["java"]
-CMD [ "-Xmx512M", "-Xms64M", "-jar", "/app/nukkit.jar" ]
+CMD [ "-Xmx512M", "-Xms64M", "-jar", "/app/minecraft-server.jar" ]
